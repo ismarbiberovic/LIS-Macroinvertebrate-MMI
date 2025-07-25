@@ -1,4 +1,16 @@
 # LIS-Macroinvertebrate-MMI
-Repository for the CTLIS Macroinvertebrate Multimetric Index (MMI) project. Includes RMarkdown tool for MMI calculation, user guide, technical reports, and supporting documentation and data developed by Tetra Tech and CT DEEP for Long Island Sound embayment assessments.
 
-To calculate the index using your macroinvertebrate data, use the R Markdown calculation tool in the `LIS MMI Calculation Tool` folder. Phase 1 and Phase 2 reports can be found in the `Reports` folder.
+This repository supports the Connecticut Long Island Sound (CTLIS) Macroinvertebrate Multimetric Index (MMI) project, developed by Tetra Tech and CT DEEP for assessing the ecological condition of embayments in Long Island Sound.
+
+It includes:
+
+  - An R Markdown-based calculation tool for computing MMI scores from macroinvertebrate count data.
+  - A user guide with step-by-step instructions.
+  - Phase I and Phase II technical reports detailing the scientific framework, metric development, and index validation.
+  - Supporting trait table and documentation.
+
+To calculate MMI scores, use the R Markdown script in the LIS MMI Calculation Tool folder. Reports are located in the Reports folder.
+
+You can explore the project through ArcGIS StoryMaps:
+  - Technical StoryMap: methods, data, and performance [https://storymaps.arcgis.com/stories/b544679aecfc486d968472293c424746]
+  - Non-Technical StoryMap: accessible overview for general audiences [https://storymaps.arcgis.com/stories/56a0779009b04e03a7fc5e4c4f0199cb]
